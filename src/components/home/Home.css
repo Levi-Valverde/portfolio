@@ -145,7 +145,7 @@
 
   .home__description {
     max-width: initial;
-    margin-bottom: var(--mb-2-25);
+    margin-bottom: var(--mb-1-5);
   }
 
   .home__img {
