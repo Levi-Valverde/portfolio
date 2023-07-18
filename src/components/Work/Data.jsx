@@ -4,10 +4,11 @@ import stopwatch from "../../assets/work3.png";
 import colorFlipper from "../../assets/work4.png";
 import toDoList from "../../assets/todolist.png";
 import BMICalculator from "../../assets/bmicalculator.png";
+import restaurant from "../../assets/restaurant.png";
 
 export const projectsData = [
   {
-    id: 5,
+    id: 6,
     image: fitnessWebsite,
     title: "Fitness Website",
     category: "websites",
@@ -16,6 +17,17 @@ export const projectsData = [
       "In this Reactjs project, I made an awesome responsive Fitness Application. This website used React hooks, modern CSS, Framer motion, and Email js library to make this site more functional and practical.",
     link: "https://levi-valverde.github.io/gym-website/",
     github: "https://github.com/Levi-Valverde/gym-website",
+  },
+  {
+    id: 5,
+    image: restaurant,
+    title: "Restaurant,",
+    category: "websites",
+    internalLink: "restaurant-website",
+    description:
+      "In this React project, create a Restaurant website. This site has used React, TypeScript and Tailwind CSS to make this site more functional and user-friendly.",
+    link: "https://restaurant-weld-sigma.vercel.app/",
+    github: "https://github.com/Levi-Valverde/restaurant",
   },
   {
     id: 4,
