@@ -21,7 +21,7 @@ export const projectsData = [
   {
     id: 5,
     image: restaurant,
-    title: "Restaurant,",
+    title: "Restaurant",
     category: "websites",
     internalLink: "restaurant-website",
     description:
