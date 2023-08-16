@@ -1,6 +1,6 @@
 # Portifolio
 
-Este é o meu Portifolio profissional, contém informações importantes sobre mim
+Este é o meu Portifolio profissional, contém informações importantes sobre meus projetos feitos e um pouco sobre mim.
 
 ## 🚀 Deploy
 
@@ -8,4 +8,4 @@ Para visualizar o deploy deste projeto vá no [Link](https://portfolio-levi-valv
 
 ---
 
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Armstrong Lohãns]([https://gist.github.com/lohhans](https://github.com/Levi-Valverde)https://github.com/Levi-Valverde) 😊
