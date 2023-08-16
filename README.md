@@ -8,4 +8,4 @@ Para visualizar o deploy deste projeto vá no [Link](https://portfolio-levi-valv
 
 ---
 
-⌨️ com ❤️ por [Levi Valverde]([https://gist.github.com/lohhans](https://github.com/Levi-Valverde)https://github.com/Levi-Valverde) 😊
+⌨️ com ❤️ por [Levi Valverde](https://github.com/Levi-Valverde) 😊
