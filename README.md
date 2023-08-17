@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Para visualizar o deploy deste projeto vá no [Link](https://portfolio-levi-valverde.vercel.app/) e confira todas as informações.
+Para visualizar o deploy deste projeto vá [neste link](https://portfolio-levi-valverde.vercel.app/) e confira todas as informações.
 
 Este é o meu Portifolio profissional que contém informações importantes sobre meus projetos feitos e um pouco sobre minha pessoa. É basicamente uma aplicação front end que consiste em mostrar uma coleção de amostras de trabalhos relazidados por mim.
 
@@ -39,7 +39,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Levi-Valverde/portfolio
 
 # entrar na pasta do projeto front end web
 cd front-web
