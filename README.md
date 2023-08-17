@@ -12,15 +12,13 @@ A aplicação consiste demonstrar habilidades, competências, qualificações e 
 
 ## Layout mobile
 
-![Mobile 1](https://github.com/Levi-Valverde/portfolio/blob/master/assets/mobile1.png) ![Mobile 2](https://github.com/Levi-Valverde/portfolio/blob/master/assets/mobile2.png) ![Mobile 3](https://github.com/Levi-Valverde/portfolio/blob/master/assets/mobile3.png)
+![Mobile 1](https://github.com/Levi-Valverde/portfolio/blob/master/assets/mobile1.png) ![Mobile 2](https://github.com/Levi-Valverde/portfolio/blob/master/assets/mobile3.png)
 
 ## Layout web
 
 ![Web 1](https://github.com/Levi-Valverde/portfolio/blob/master/assets/web1.png)
 
 ![Web 2](https://github.com/Levi-Valverde/portfolio/blob/master/assets/web2.png)
-
-![Web 3](https://github.com/Levi-Valverde/portfolio/blob/master/assets/web3.png)
 
 # Tecnologias utilizadas
 
