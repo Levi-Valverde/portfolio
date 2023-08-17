@@ -41,9 +41,6 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/Levi-Valverde/portfolio
 
-# entrar na pasta do projeto front end web
-cd front-web
-
 # instalar dependências
 yarn install
 
