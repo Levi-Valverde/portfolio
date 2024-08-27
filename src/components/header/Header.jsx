@@ -45,7 +45,7 @@ export function Header() {
                 }
               >
                 <i className="uil uil-user nav__icon"></i>
-                About
+                Sobre
               </a>
             </li>
 
@@ -60,7 +60,7 @@ export function Header() {
                 }
               >
                 <i className="uil uil-file-alt nav__icon"></i>
-                Skills
+                Habilidades
               </a>
             </li>
 
@@ -75,7 +75,7 @@ export function Header() {
                 }
               >
                 <i className="uil uil-briefcase-alt nav__icon"></i>{" "}
-                Qualification
+                Qualificação
               </a>
             </li>
 
@@ -103,7 +103,7 @@ export function Header() {
                     : "nav__link"
                 }
               >
-                <i className="uil uil-message nav__icon"></i> Contact
+                <i className="uil uil-message nav__icon"></i> Contato
               </a>
             </li>
           </ul>
