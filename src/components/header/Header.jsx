@@ -32,7 +32,7 @@ export function Header() {
                 }
               >
                 <i className="uil uil-estate nav__icon"></i>
-                Home
+                Início
               </a>
             </li>
 
