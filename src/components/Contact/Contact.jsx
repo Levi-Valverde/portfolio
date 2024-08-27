@@ -39,7 +39,7 @@ export function Contact() {
                 href="mailto:levivalverdelima@gmail.com"
                 className="contact__button"
               >
-                Write me{" "}
+                Escreva-me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -51,7 +51,7 @@ export function Contact() {
               <span className="contact__card-data">+55 98 99147-0654</span>
 
               <a href="https://wa.me/5598991470654" className="contact__button">
-                Write me{" "}
+                Escreva-me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -66,7 +66,7 @@ export function Contact() {
                 href="https://www.linkedin.com/in/levivalverde/"
                 className="contact__button"
               >
-                Write me{" "}
+                Escreva-me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -74,11 +74,11 @@ export function Contact() {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me your project</h3>
+          <h3 className="contact__title">Descreva o seu projeto</h3>
 
           <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
-              <label className="contact__form-tag">Name</label>
+              <label className="contact__form-tag">Nome</label>
               <input
                 type="text"
                 name="name"
@@ -88,7 +88,7 @@ export function Contact() {
             </div>
 
             <div className="contact__form-div">
-              <label className="contact__form-tag">Mail</label>
+              <label className="contact__form-tag">E-mail</label>
               <input
                 type="email"
                 name="email"
@@ -98,7 +98,7 @@ export function Contact() {
             </div>
 
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Project</label>
+              <label className="contact__form-tag">Projeto</label>
               <textarea
                 name="project"
                 cols="30"
@@ -109,7 +109,7 @@ export function Contact() {
             </div>
 
             <button href="#contact" className="button button--flex">
-              Send Message
+              Enviar Mensagem
               <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
