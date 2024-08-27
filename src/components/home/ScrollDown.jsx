@@ -37,7 +37,7 @@ export function ScrollDown() {
             }}
           ></path>
         </svg>
-        <span className="home__scroll-name">Scroll down</span>
+        <span className="home__scroll-name">Rolar para baixo</span>
         <i className="uil uil-arrow-down home__scroll-arrow"></i>
       </a>
     </div>
