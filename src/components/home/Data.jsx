@@ -57,8 +57,7 @@ export function Data() {
       </h1>
       <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-        I'm creative developer based in Brazil, and I'm very passionate and
-        dedicated to my work.
+        Sou um desenvolvedor criativo, moro em Aracaju-SE e sou muito apaixonado e dedicado ao meu trabalho.
       </p>
 
       <a href="#contact" className="button button--flex">
