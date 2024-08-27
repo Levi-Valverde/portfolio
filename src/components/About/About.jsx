@@ -17,9 +17,7 @@ export function About() {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have more than 1 year of experience with web application
-            development and projects carried out.
+            Desenvolvedor frontend, crio páginas web com interface de usuário UI/UX, tenho mais de 1 ano de experiência com desenvolvimento de aplicações web e projetos próprios realizados.
           </p>
 
           <a download="" href={CV} className="button button--flex">
