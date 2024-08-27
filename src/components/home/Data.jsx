@@ -55,13 +55,13 @@ export function Data() {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Web Developer</h3>
+      <h3 className="home__subtitle">Desenvolvedor</h3>
       <p className="home__description">
         Sou um desenvolvedor criativo, moro em Aracaju-SE e sou muito apaixonado e dedicado ao meu trabalho.
       </p>
 
       <a href="#contact" className="button button--flex">
-        Say Hello
+        Diga Olá
         <svg
           class="button__icon"
           xmlns="http://www.w3.org/2000/svg"
