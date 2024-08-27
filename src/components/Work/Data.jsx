@@ -65,11 +65,11 @@ export const projectsData = [
   {
     id: 1,
     image: BMICalculator,
-    title: "BMI",
+    title: "IMC",
     category: "projects",
     internalLink: "bmi-calculator",
     description:
-      "This is a BMI calculator (Body Mass Index). Only HTML, CSS and JavaScript were used. The body mass index (BMI) classification can help identify obesity or malnutrition problems in children, adolescents, adults and the elderly.",
+      "Esta é uma calculadora de IMC (Índice de Massa Corporal). Apenas HTML, CSS e JavaScript foram usados. A classificação do índice de massa corporal (IMC) pode ajudar a identificar problemas de obesidade ou desnutrição em crianças, adolescentes, adultos e idosos.",
     link: "https://levi-valverde.github.io/imc-calculator/",
     github: "https://github.com/Levi-Valverde/imc-calculator",
   },
@@ -80,7 +80,7 @@ export const projectsData = [
     category: "projects",
     internalLink: "color-flipper",
     description:
-      "This is a color flipper. Color Flipper is a fun mini javascript project where you create a simple button, that on click, runs a function that generates a random color and then sets the background/color of an element you preselected to that random color.",
+      "Color Flipper (Fliperama de Cores) é um mini projeto javascript divertido onde você cria um botão simples, que ao clicar, executa uma função que gera uma cor aleatória e então define o fundo/cor de um elemento que você pré-selecionou para essa cor aleatória.",
     link: "https://levi-valverde.github.io/color-flipper/",
     github: "https://github.com/Levi-Valverde/color-flipper",
   },
