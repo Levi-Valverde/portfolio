@@ -7,8 +7,8 @@ import { Info } from "./Info";
 export function About() {
   return (
     <section className="about section" id="about">
-      <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My introduction</span>
+      <h2 className="section__title">Sobre Mim</h2>
+      <span className="section__subtitle">Introdução</span>
 
       <div className="about__container container grid">
         <img src={AboutImg} alt="" className="about__img" />
@@ -21,7 +21,7 @@ export function About() {
           </p>
 
           <a download="" href={CV} className="button button--flex">
-            Download CV
+            Currículo
             <svg
               class="button__icon"
               xmlns="http://www.w3.org/2000/svg"
