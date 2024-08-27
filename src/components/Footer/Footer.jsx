@@ -9,19 +9,19 @@ export function Footer() {
         <ul className="footer__list">
           <li>
             <a href="#about" className="footer__link">
-              About
+              Sobre
             </a>
           </li>
 
           <li>
             <a href="#portifolio" className="footer__link">
-              Projects
+              Projetos
             </a>
           </li>
 
           <li>
             <a href="#qualification" className="footer__link">
-              Qualification
+              Qualificação
             </a>
           </li>
         </ul>
@@ -52,7 +52,7 @@ export function Footer() {
           </a>
         </div>
 
-        <span className="footer__copy">&#169; Levi. All rigths reserved</span>
+        <span className="footer__copy">&#169; Levi. Todos os direitos reservados</span>
       </div>
     </footer>
   );
