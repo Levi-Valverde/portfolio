@@ -33,7 +33,7 @@ export const projectsData = [
     id: 4,
     image: hangmanGame,
     title: "Jogo da Forca",
-    category: "projects",
+    category: "projetos",
     internalLink: "hangman-game",
     description:
       "O jogo da forca (hangman em inglês) é um jogo para dois em que um jogador tenta adivinhar as letras de uma palavra, e as tentativas frustradas são registradas desenhando uma forca e alguém pendurado nela, linha por linha. This project uses JavaScript, HTML and CSS.",
@@ -44,7 +44,7 @@ export const projectsData = [
     id: 3,
     image: stopwatch,
     title: "Cronômetro",
-    category: "projects",
+    category: "projetos",
     internalLink: "stopwatch",
     description:
       "Este projeto é um cronômetro que usa JavaScript, HTML e CSS. O dispositivo é usado quando períodos de tempo devem ser medidos com precisão e com o mínimo de complicações.",
@@ -55,7 +55,7 @@ export const projectsData = [
     id: 2,
     image: toDoList,
     title: "Lista de Tarefas",
-    category: "projects",
+    category: "projetos",
     internalLink: "to-do-list",
     description:
       "Este projeto é uma lista de tarefas. Uma lista de tarefas é apenas uma lista de coisas que você tem que fazer. Acompanhar efetivamente quando seu trabalho vence pode ajudar você a priorizar e fazer um ótimo trabalho. Este projeto usa JavaScript, HTML e CSS.",
@@ -66,7 +66,7 @@ export const projectsData = [
     id: 1,
     image: BMICalculator,
     title: "IMC",
-    category: "projects",
+    category: "projetos",
     internalLink: "bmi-calculator",
     description:
       "Esta é uma calculadora de IMC (Índice de Massa Corporal). Apenas HTML, CSS e JavaScript foram usados. A classificação do índice de massa corporal (IMC) pode ajudar a identificar problemas de obesidade ou desnutrição em crianças, adolescentes, adultos e idosos.",
@@ -77,7 +77,7 @@ export const projectsData = [
     id: 0,
     image: colorFlipper,
     title: "Color Flipper",
-    category: "projects",
+    category: "projetos",
     internalLink: "color-flipper",
     description:
       "Color Flipper (Fliperama de Cores) é um mini projeto javascript divertido onde você cria um botão simples, que ao clicar, executa uma função que gera uma cor aleatória e então define o fundo/cor de um elemento que você pré-selecionou para essa cor aleatória.",
