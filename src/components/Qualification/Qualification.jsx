@@ -24,7 +24,7 @@ export function Qualification() {
             onClick={() => toggleTab(1)}
           >
             <i className="uil uil-graduation-cap qualification-icon"></i>
-            Education
+            Educação
           </div>
 
           <div
@@ -36,7 +36,7 @@ export function Qualification() {
             onClick={() => toggleTab(2)}
           >
             <i className="uil uil-briefcase-alt qualification-icon"></i>
-            Experience
+            Experiência
           </div>
         </div>
 
@@ -50,12 +50,12 @@ export function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
+                <h3 className="qualification__title">Desenvolvimento Web</h3>
                 <span className="qualification__subtitle">
-                  Brazil - Institute
+                  Brasil - Projetos
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2022 - Present
+                  <i className="uil uil-calendar-alt"></i> 2022 - Presente
                 </div>
               </div>
 
@@ -74,12 +74,12 @@ export function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Computer Science</h3>
+                <h3 className="qualification__title">Ciência da Computação</h3>
                 <span className="qualification__subtitle">
-                  Brazil - Institute
+                  Universidade Salvador
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> 2021 - Presente
                 </div>
               </div>
             </div>
@@ -94,12 +94,12 @@ export function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
+                <h3 className="qualification__title">Desenvolvedor</h3>
                 <span className="qualification__subtitle">
-                  Freelance - Brazil
+                  Projetos - Brasil
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2022 - Present
+                  <i className="uil uil-calendar-alt"></i> 2022 - Presente
                 </div>
               </div>
 
@@ -119,10 +119,10 @@ export function Qualification() {
 
               <div>
                 <h3 className="qualification__title">
-                  Administrative Assistant
+                  Assistente Administrativo
                 </h3>
                 <span className="qualification__subtitle">
-                  Teleperformance - Brazil
+                  Teleperformance - Brasil
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2021 - 2023
