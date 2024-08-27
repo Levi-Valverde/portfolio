@@ -14,7 +14,7 @@ export const projectsData = [
     category: "websites",
     internalLink: "fitness-website",
     description:
-      "In this Reactjs project, I made an awesome responsive Fitness Application. This website used React hooks, modern CSS, Framer motion, and Email js library to make this site more functional and practical.",
+      "Neste projeto Reactjs, eu fiz um website Fitness responsivo incrível. Este site usou React hooks, CSS moderno, Framer motion e biblioteca Email js para tornar este site mais funcional e prático.",
     link: "https://levi-valverde.github.io/gym-website/",
     github: "https://github.com/Levi-Valverde/gym-website",
   },
