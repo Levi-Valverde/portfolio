@@ -88,12 +88,12 @@ export const projectsData = [
 
 export const projectNav = [
   {
-    name: "all",
+    name: "todos",
   },
   {
     name: "websites",
   },
   {
-    name: "projects",
+    name: "projetos",
   },
 ];
