@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import AboutImg from "../../assets/levi-valverde-lima-2.jpeg";
-import CV from "../../assets/Curriculum4.pdf";
+import CV from "../../assets/Curriculum3.pdf";
 import { Info } from "./Info";
 
 export function About() {
@@ -53,5 +53,6 @@ export function About() {
     </section>
   );
 }
+
 
 
